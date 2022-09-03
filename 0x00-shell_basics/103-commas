@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lamd ./ ../ |tr , /n
+ls -am ./ tr ,/n
