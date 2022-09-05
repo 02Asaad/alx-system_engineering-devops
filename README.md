@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell Basic 0x00
+This about shell standard input and output redirection
